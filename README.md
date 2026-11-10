@@ -60,16 +60,4 @@ Semua query memakai **prepared statement** (`prepare()` lalu `execute()`). Tidak
 
 ## Dokumentasi
 
-Video dan gambar program yang dijalankan ada di folder [`Dokumentasi`](./Dokumentasi).
-
-Video (screen record CRUD semua tabel)
-[GANTI DENGAN LINK / ASSET VIDEO]
-
-Halaman Alat
-[GANTI DENGAN GAMBAR]
-
-Halaman Kategori
-[GANTI DENGAN GAMBAR]
-
-Halaman Peminjaman
-[GANTI DENGAN GAMBAR]
+Video program yang dijalankan ada di folder [`Dokumentasi`](./Dokumentasi).
