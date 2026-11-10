@@ -62,5 +62,7 @@ Semua query memakai **prepared statement** (`prepare()` lalu `execute()`). Tidak
 
 Video program yang dijalankan 
 table alat : https://drive.google.com/file/d/183YKqSA1IGb-weW1ae39FpRETmbObxbD/view?usp=sharing
+
 table kategori : https://drive.google.com/file/d/1mMNIO6LX25UFSp5u7n1BcZ96apehbRxf/view?usp=sharing
+
 table peminjaman : https://drive.google.com/file/d/1C7oq5t3KWZFlT4V0FWreOZwEou8EUXo7/view?usp=sharing
